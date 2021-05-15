@@ -12,7 +12,6 @@
 👨‍💻 Ordinary highschooler with Mobile-Dev and UI/UX Obsession. Find several mobile-dev projects here on my Github.
 
 **About Me**
-
 &nbsp;
 
 Hi there! I'm Andreas Notokusumo 👋
