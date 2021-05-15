@@ -6,7 +6,6 @@
 [![https://andreas-notokusumo.web.app/](https://img.shields.io/badge/visit-website-blue?style=for-the-badge)](https://andreas-notokusumo.web.app/)
 [![andreasnotokusumo23@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=green&logo=gmail&style=for-the-badge&logoColor=white)](mailto:andreasnotokusumo23@gmail.com)
 [![https://dribbble.com/fullstack-dre](https://img.shields.io/static/v1?label=visit&message=dribbble&color=pink&style=for-the-badge&logoColor=white)](https://dribbble.com/fullstack-dre)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=fullstack-dre.fullstack-dre)
 
 &nbsp;
 
