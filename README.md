@@ -7,7 +7,7 @@
 [![andreasnotokusumo23@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=green&logo=gmail&style=for-the-badge&logoColor=white)](mailto:andreasnotokusumo23@gmail.com)
 [![https://dribbble.com/fullstack-dre](https://img.shields.io/static/v1?label=visit&message=dribbble&color=pink&style=for-the-badge&logoColor=white)](https://dribbble.com/fullstack-dre)
 
+&nbsp;
 
-
-##👨‍💻 Ordinary highschooler with Mobile-Dev and UI/UX Obsession. Find several Flutter projects here onmy Github
+👨‍💻 Ordinary highschooler with Mobile-Dev and UI/UX Obsession. Find several Flutter projects here onmy Github
 
