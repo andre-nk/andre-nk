@@ -9,5 +9,10 @@
 
 &nbsp;
 
-👨‍💻 Ordinary highschooler with Mobile-Dev and UI/UX Obsession. Find several Flutter projects here onmy Github
+👨‍💻 Ordinary highschooler with Mobile-Dev and UI/UX Obsession. Find several mobile-dev projects here on my Github.
+
+**About Me**
+Hi there! I'm Andreas Notokusumo 👋
+An Indonesia-based mobile-apps developer, front-end developer, and UI/UX enthusiast. I'm quietly confident in my diverse skills, ranging from graphic design, UI design, Flutter, HTML, CSS, Javascript, and few others. Aided with serious passion, well-organized, and creative personality, I'm able to produce a well-crafted app, with an intuitive and remarkable user experience. I'm greatly interested in mobile apps development, UI design, and the front-end spectrum. Whack the button below to get in touch with me!
+
 
