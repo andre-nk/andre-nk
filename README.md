@@ -1,6 +1,6 @@
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=fullstack-dre&show_icons=true&theme=radical">
 
-### Hi fellas! 👋  I'm Andre, from Indonesia!
+### Hi fellas! 👋  I'm Andre, an Indonesian-based Front-end Developer, Flutter Developer and UI/UX Enthusiast!
 
 [![https://www.instagram.com/fullstack.dre/](https://img.shields.io/badge/follow%20me-instagram-orange?style=for-the-badge)](https://www.instagram.com/fullstack.dre/)
 [![https://andreas-notokusumo.web.app/](https://img.shields.io/badge/visit-website-blue?style=for-the-badge)](https://andreas-notokusumo.web.app/)
@@ -9,12 +9,12 @@
 
 &nbsp;
 
-👨‍💻 Ordinary highschooler with Mobile-Dev and UI/UX Obsession. Find several mobile-dev projects here on my Github.
+👨‍💻 Ordinary highschooler with obsession on Mobile Development (Flutter), Front-End Development (React + NextJS) and UI/UX Design. (and not to mention jazz...)
 
 **About Me**
 &nbsp;
 
 Hi there! I'm Andreas Notokusumo 👋
-An Indonesia-based mobile-apps developer, front-end developer, and UI/UX enthusiast. I'm quietly confident in my diverse skills, ranging from graphic design, UI design, Flutter, HTML, CSS, Javascript, and few others. Aided with serious passion, well-organized, and creative personality, I'm able to produce a well-crafted app, with an intuitive and remarkable user experience. I'm greatly interested in mobile apps development, UI design, and the front-end spectrum. Whack those buttons above to get in touch with me!
+An Indonesia-based mobile-apps developer, front-end developer, and UI/UX enthusiast. I'm quietly confident in my diverse skills, ranging from UI/UX Design, Flutter, HTML, CSS, Java/Typescript, ReactJS, NextJS and few others. Aided with serious passion, well-organized, and creative personality, I'm able to produce a well-crafted app, with an intuitive and remarkable user experience. Whack those buttons above to get in touch with me!
 
 
