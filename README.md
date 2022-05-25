@@ -1,6 +1,7 @@
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=fullstack-dre&show_icons=true&theme=radical">
 
-### Hi fellas! 👋  I'm Andre, an Indonesian-based Front-end Developer, Flutter Developer and UI/UX Enthusiast!
+### Hi fellas! 👋 
+I'm Andre, CS Student @UGM '22, Part-time Flutter Dev Freelancer, Web Developer and UI/UX Enthusiast
 
 [![https://www.instagram.com/andreee_nk/](https://img.shields.io/badge/follow%20me-instagram-orange?style=for-the-badge)](https://www.instagram.com/andreee_nk/)
 [![https://andreas-notokusumo.web.app/](https://img.shields.io/badge/visit-website-blue?style=for-the-badge)](https://andreas-notokusumo.web.app/)
