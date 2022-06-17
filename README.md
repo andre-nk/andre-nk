@@ -1,4 +1,4 @@
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=fullstack-dre&show_icons=true&theme=radical">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=andre-nk&show_icons=true&theme=radical">
 
 ## Hi fellas, I'm Andre! 👋 
 ### CS Student @UGM '22, Part-time Flutter Dev Freelancer, Web Developer and UI/UX Enthusiast
