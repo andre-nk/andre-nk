@@ -1,10 +1,5 @@
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=andre-nk&show_icons=true&theme=radical">
-
-## Hi fellas, I'm Andre! 👋 
-### CS Student @UGM '22, Part-time Flutter Dev Freelancer, Web Developer and UI/UX Enthusiast
-
-<br/>
-<br/>
+## Hi there, I'm Andreas! 👋 
+### CS Student @UGM '22, Part-time Flutter (Mobile) Freelancer, React Developer and UI/UX Enthusiast
 
 ### About Me
 
