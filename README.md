@@ -1,9 +1,9 @@
 ## Hi there, I'm Andreas! 👋 
-### CS Student @UGM '22, Part-time Flutter (Mobile) Freelancer, React Developer and UI/UX Enthusiast
+### CS Student, Software Engineer, and UI/UX Enthusiast
 
 ### About Me
+I'm Andreas Notokusumo, a versatile software engineer and Computer Science student at Universitas Gadjah Mada in Yogyakarta, Indonesia. With over 4 years of diverse experience, I'm forever grateful for opportunities to delve into numerous facets of technology, from full-stack web development to mobile app development, project management, UI/UX design, cloud computing, and lately operating system (OS) development.
+Throughout these years, the one true calling has always been software engineering. I'm intrigued by the intricacies of delivering production-grade apps, starting from the architectural design, leveraging discipline in the coding process, and also the human dynamics behind the project.
+Above all that, I hold a profound respect for the fundamental concepts of Computer Science, which provide the necessary abstraction for innovation and problem-solving.
+In essence, as a dedicated CS student, I actively seek out challenging opportunities to further expand my skills and knowledge. I am committed to refining my understanding of fundamental concepts while pushing the boundaries of what's possible in software development. So, let's connect and explore how we can innovate together.
 
-I'm a second-year Computer Science student at Universitas Gadjah Mada while pursuing professional background as a part-time freelancer in Flutter Development. While expanding my experiences in other IT-related fields, such as Data Science, Web Development, and UI/UX Design, I always strive to deliver production-grade projects, well-documented workflow, and persistence. I enjoyed the whole process of development because of the satisfaction of creatively tackling challenges. Lastly, I'm always motivated by software's impact on many real problems and the fact that this is an opportunity to improve my soft skills and networking skills.
-
-Skills and Technologies:
-Flutter | Dart | BLoC Architecture | MVVM | Firebase | App Store Connect | Google Play Console | ReactJS | NextJS | TailwindCSS | Golang | REST API | C++ | MongoDB | Git | Github | Product Thinking | Wireframing | UI Design | Design Process | Figma | Whimsical 
